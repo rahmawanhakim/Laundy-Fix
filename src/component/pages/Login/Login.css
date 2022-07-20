@@ -1,0 +1,149 @@
+.form-2 {
+    border: solid;
+    align-items: center;
+    margin-top: 120px;
+    margin-left: 30% ;
+    max-width: 40%;
+    height: 500px;
+    border-radius: 30px;
+    border-color: #1c2237;
+    text-align: center;
+    background-color: #1c2237;
+}
+
+.input1{
+    font-size: 15px;
+    width: 270px;
+    text-align: center;
+    color: #1c2237;
+    height: 45px;
+    margin-top: 5px;
+    border-color:#1c2237 ;
+    border-radius: 35px;
+    background-color: #fff;  
+}
+
+.input2 {
+    font-size: 20px;
+    width: 270px;
+    text-align: center;
+    color: #1c2237;
+    height: 45px;
+    border: #1c2237;
+    margin-top: 5px;
+    border-radius: 35px;
+    background-color: #fff;
+    
+}
+
+.sign1 {
+    display: flex;
+    padding: 15px; 
+    margin: 20px;
+}
+
+.sign2{
+    text-decoration:none ;
+    color : #276afb ;
+}
+h1{
+    text-align: center;
+    font-family: initial;
+    color: #fff;
+    margin-top: 60px;
+}
+
+p{
+    color: #fff;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.I1 {
+    display: flex;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    margin-left: 3pt;
+}
+
+
+.I2{
+    display: flex;
+    color: #fff;
+    font-family:sans-serif;
+    font-weight:normal;
+    font-size: 15px;
+    margin-left: 4pt;
+}
+
+.FaUser{
+    display:flex;
+    color: #fff;
+    font-size: 18px;
+}
+
+.FaKey{
+    display: flex;
+    color: #fff;
+    font-size: 20px;
+}
+ 
+.label {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 110px;
+}
+
+.label2{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 110px;
+}
+
+.sign2:hover {
+    color: #fff;
+    transform: scale(1.2);
+    transition: all 0.3s ease;
+}
+
+.form-2R {
+    border: solid;
+    align-items: center;
+    margin-top: 80px;
+    margin-left: 25% ;
+    max-width: 50%;
+    height: 800px;
+    border-radius: 30px;
+    border-color: #1c2237;
+    text-align: center;
+    background-color: #1c2237;
+    margin-bottom: 50px;
+}
+
+.I3 {
+    display: flex;
+    color: #fff;
+    font-family:sans-serif;
+    font-weight:normal;
+    font-size: 15px;
+    margin-left: 4pt;
+}
+
+.FaReg {
+    display: flex;
+    color: #fff;
+    font-size: 20px;
+}
+.label4{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 160px;
+}
+
+.label3{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 160px;
+}

@@ -1,0 +1,207 @@
+.list-user {
+    display: flex;
+}
+
+.user-title {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #1c2237;
+}
+
+.user-title1 {
+    text-align: center;
+    font-size: 60px;
+    margin-top: -75px;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #1c2237;
+}
+
+.list {
+    list-style: none;
+    box-shadow: 20px 10px 4px #615d5d;
+    margin-top: 20px;
+}
+
+.add{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    height: 40px;
+    color:#fff ;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: #276afb;
+    border: solid #276afb;
+}
+
+
+.add:hover{
+    transform: scale(1.2);
+    transition: all 0.3s ease;
+    background-color: #1c2237;
+    border: solid #1c2237;
+    color: #fff;
+}
+.hey{
+    border: solid #1c2237 ;
+    background-color: #1c2237;
+    margin: 10px;
+    border-radius: 5px;
+}
+.hey:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease;
+}
+
+
+
+.item1{
+    display: flex;
+    font-size: 20px;
+    color: black;
+}
+
+
+
+.title1{
+    display: flex;
+    font-size: 20px;
+    color: black;
+}
+
+.text{
+    margin : 5px;
+    font-size: 17px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.isi{
+    color: #fff;
+    margin: 5px;
+    font-size: 25px;
+}
+
+.button{
+    display: inline;
+}
+
+.edit{
+    border: solid #fff;
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.delete{
+    border: solid #fff;
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.edit-paket{
+    border: solid #fff;
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-left: 220px;
+    margin-bottom: 10px;
+}
+
+.delete-paket{
+    border: solid #fff;
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.edit-outlet{
+    border: solid #fff;
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+.delete-outlet{
+    border: solid #fff;
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+
+.delete-paket:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+    background-color: #f00946;
+    border: solid #f00946;  
+}
+.edit-paket:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+    background-color: #ffea00;
+    border: solid #ffea00;
+}
+
+.delete-outlet:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+    background-color: #f00946;
+    border: solid #f00946;  
+}
+.edit-outlet:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+    background-color: #ffea00;
+    border: solid #ffea00;
+}
+
+
+.icon{
+    color: #1c2237;
+    font-size:25px;
+}
+
+.delete:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+    background-color: #f00946;
+    border: solid #f00946;  
+}
+.edit:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+    background-color: #ffea00;
+    border: solid #ffea00;
+}
+

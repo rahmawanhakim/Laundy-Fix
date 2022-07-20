@@ -1,0 +1,23 @@
+
+
+.mem{
+    border: solid #1c2237 ;
+    
+    margin: 10px;
+    border-radius: 5px;
+}
+.mem:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease;
+}
+
+.beb{
+    color: #1c2237;
+    font-weight: bolder;
+}
+
+.isi2{
+    color: #1c2237;
+    margin: 5px;
+    font-size: 25px;
+}

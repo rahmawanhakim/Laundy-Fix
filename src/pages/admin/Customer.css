@@ -1,0 +1,354 @@
+.wrapper{
+    background-color: #1c2237;
+    width: cover;
+    height: 900px;
+    margin-top: 0px;
+}
+
+.username{
+    
+    color: #1c2237;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.button-ts{
+    margin-top: 40px;
+    border-style: solid;
+    height: 500px;
+    min-height: 500px;
+    min-width:370px ;
+    width: 370px;
+    background-color: #1c2237;
+    font-size: 40px;
+    color: #fff;
+    border-radius:14px 10px;
+    margin-left: 40px;
+    display: flex;
+    box-shadow: 20px 10px 4px #615d5d;
+}
+
+.button-ts2{
+    margin-top: 80px;
+    border: solid #fff;
+    height: 500px;
+    min-height: 500px;
+    min-width: 370px;
+    width: 370px;
+    background-color: #fff;
+    font-size: 40px;
+    color: #1c2237;
+    border-radius: 14px 10px;
+    margin-left: 50px;
+    display: flex;
+    filter: drop-shadow(20px 10px 4px #737373);
+}
+
+.button-ts3{
+    margin-top: 40px;
+    border-style: solid;
+    height: 500px;
+    width: 370px;
+    background-color: #1c2237;
+    font-size: 40px;
+    min-height: 500px;
+    min-width: 370px;
+    color: #1c2237;
+    border-radius: 14px 10px;
+    margin-left: 50px;
+    display: flex;
+    filter: drop-shadow(20px 10px 4px #737373);
+}
+
+.button-ts4{
+    margin-top: 80px;
+    border: solid #fff ;
+    height: 500px;
+    width: 370px;
+    min-height: 500px;
+    min-width: 370px;
+    background-color:#fff;
+    font-size: 40px;
+    color: #1c2237;
+    border-radius:14px 10px;
+    margin-left: 50px;
+    display: flex;
+    filter: drop-shadow(20px 10px 4px #737373);
+}
+
+.button-ts:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+}
+
+.button-ts2:hover{
+    transform: scale(1.1);
+      transition: all 0.3s ease;
+    
+}
+
+.button-ts3:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+}
+
+.button-ts4:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+}
+
+.dash{
+    text-align: center;
+    color:transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    color: #1c2237;
+    margin: 50px;
+    -webkit-background-clip: text;
+    background-clip: text;
+     
+}
+.title0{
+    text-align: center;
+    color:transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    color: #1a83ff;
+    -webkit-background-clip: text;
+    background-clip: text;
+    margin-top: -87px;
+    margin-left: 10px;
+     
+}
+.title1{
+    margin-top: 80px;
+    margin-left:15%;
+    color:#fff;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    border: solid;
+    border-color: #1c2237 ;
+    background-color: transparent;
+    width: 70%;
+    display: flex;
+    height: 80px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.title2{
+    color: #fff;
+    display: flex;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+    
+    margin-left: 35%;
+}
+
+.title5{
+    margin-top: 1%;
+    margin-left:60px;
+
+    margin-right: 60px;
+}
+
+.title6{
+    color:#fff ;
+   margin-left: 150px;
+    display: flex;
+}
+
+.title7{
+    color:#fff ;
+   margin-left: 130px;
+    display: flex;
+}
+
+.ts {
+    font-size: 40px;
+    margin-top: 15%;
+    margin-left: 10px;
+    
+}
+
+.ts2 {
+    font-size: 43px;
+    margin-top: 22%;
+    margin-left: 50px;
+    
+}
+
+.ts3 {
+    font-size: 40px;
+    margin-top: 22%;
+    margin-left: 35px;
+    color: #fff;
+}
+
+.ts4 {
+    font-size: 40px;
+    margin-top: 19%;
+    margin-left: 20px;
+}
+
+.button-tsn{
+    font-size: 120px;
+    width: 250px;
+    height: 250px;
+    background-color:  #fff;
+    margin-top: 200px;
+    border: none;
+    margin-left: -345px;
+    color: #1c2237;
+    border-radius: 15px 15px 10px 10px;
+}
+
+
+.button-tsn2{
+    font-size: 120px;
+    text-align: center;
+    width: 250px;
+    height: 260px;
+    background-color:  #1c2237;
+    margin-top: 200px;
+    border: none;
+    margin-left: -250px;
+    color: #fff;
+    border-radius: 15px 15px 10px 10px;
+}
+.button-tsn3{
+    font-size: 120px;
+    width: 250px;
+    height: 250px;
+    background-color: #fff;
+    margin-top: 200px;
+    border: none;
+    margin-left: -300px;
+    color: #1c2237;
+    border-radius: 15px 15px 10px 10px;
+}
+
+.button-tsn4{
+    font-size: 120px;
+    width: 250px;
+    height: 250px;
+    background-color:  #1c2237;
+    margin-top: 200px;
+    border: none;
+    margin-left: -300px;
+    color: #fff;
+    border-radius: 15px 15px 10px 10px;
+}
+
+
+.button-tsn:hover{
+    background-color: #1a83ff;
+    color: #fff;
+    transform: scale(1.1);
+      transition: all 0.3s ease;
+}
+
+.button-tsn2:hover{
+    background-color: #1a83ff;
+    color: #fff;
+    transform: scale(1.1);
+      transition: all 0.3s ease;
+}
+
+.button-tsn3:hover{
+    background-color: #1a83ff;
+    color: #fff;
+    transform: scale(1.1);
+      transition: all 0.3s ease;
+}
+
+.button-tsn4:hover{
+    background-color: #1a83ff;
+    color: #fff;
+    transform: scale(1.1);
+      transition: all 0.3s ease;
+}
+
+.hero{
+    display: flex;
+}
+
+.form-i{
+    background-color: #1c2237;
+   
+    border-color: #fff;
+    
+    margin-left: 15%;
+    display: flex;
+    border-radius: 0px 0px 15px 15px;
+}
+
+.form-l{
+    
+    margin-top: 10px;
+    margin-left: 140px;
+    text-align: center;
+    display: flex;   
+    border: solid; 
+    border-color: #fff;
+    max-height: 60px;
+    
+}
+
+.form-la {
+ display: flex;
+margin-left: -103%;
+margin-top: 40px;
+}
+
+.form-la2 {
+    display: flex;
+   margin-left: -101%;
+   margin-top: 0px;
+   }
+
+   
+
+
+.hargaKG {
+    height: 40px;
+    width: 185px;
+    margin-left: 130px;
+    margin-top: 60px;
+    border: solid;
+    border-radius: 25px;
+    color: #fff;
+    font-weight: 300;
+    background-color: #1c2237;
+    text-align: center;
+}
+
+.hargaSelimut {
+    height: 40px;
+    width: 185px;
+    margin-left: 90px;
+    margin-top: 60px;
+    border: solid;
+    border-radius: 25px;
+    color: #fff;
+    font-weight: bold;
+    background-color: #1c2237;
+    text-align: center;
+}
+
+.hargaKG:hover {
+    background-color: #fff;
+    color: #1c2237;
+    transform: scale(1.1);
+    transition: 0.3s ease;
+}
+
+.hargaSelimut:hover {
+    background-color: #fff;
+    color: #1c2237;
+    transform: scale(1.1);
+    transition: 0.3s ease;
+}

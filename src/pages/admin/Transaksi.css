@@ -1,0 +1,173 @@
+.title8 {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #1c2237;
+}
+
+
+.add2{
+    margin-left: 160px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    height: 40px;
+    color:#fff ;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: #276afb;
+    border: solid #276afb;
+}
+
+.add2:hover{
+    transform: scale(1.2);
+    transition: all 0.3s ease;
+    background-color: #1c2237;
+    border: solid #1c2237;
+    color: #fff;
+}
+
+.print{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    height: 40px;
+    color:#fff ;
+    width: 150px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: #f00946;
+    border: solid #f00946;
+}
+
+.print:hover{
+    transform: scale(1.2);
+    transition: all 0.3s ease;
+    background-color: #1c2237;
+    border: solid #1c2237;
+    color: #fff;
+}
+
+.list2{
+    margin-left: 140px;
+    
+    list-style: none;
+    max-width: 80%;
+    min-width: 80%;
+    margin-top: 30px;
+    
+}
+.onbadge{
+    font-size: 15px;
+    margin-top: 3px;
+}
+
+.badge{
+    margin-left: 20px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    
+}
+
+.transaksi{
+    
+    background-color: #1c2237;
+    margin: 10px;
+    border-radius: 20px;
+   
+}
+
+.transaksi:hover{
+    transform: scale(1.03);
+    transition: all 0.3s ease;
+}
+
+.Dtransaksi{
+    border: solid #1c2237 ;
+    background-color: #4265b0;
+    margin-top:10px;
+    margin-bottom: 10px;
+    width: 136.5%;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.detail{
+    color: #fff;
+    margin-left: 5px;
+    font-size: 22px;
+    margin-left: 20px;
+}
+
+.card{
+    background-color: #1c2237;
+}
+.atas{
+    margin-top: 30px;
+    font-size: 16px;
+    margin-left: 20px;
+    color: #4265b0;
+}
+
+.search{
+    max-width: 80%;
+    margin-left: 160px;
+    color: #1c2237;
+}
+
+.Dpaket{
+    color: #fff;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.title7{
+    color: #4265b0;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.btn-edit{
+    border: solid #fff;
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: -10px;
+    margin-right: 0px;
+    margin-left: 140px;
+    margin-bottom: 10px;
+}
+
+.btn-delete{
+    border: solid #fff;
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+
+.btn-delete:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+    background-color: #f00946;
+    border: solid #f00946;  
+}
+.btn-edit:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+    background-color: #ffea00;
+    border: solid #ffea00;
+}
+
+.icon{
+    color: #1c2237;
+    font-size:25px;
+}
